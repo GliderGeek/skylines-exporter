@@ -1,0 +1,5 @@
+.env
+venv
+*.pyc
+export
+.DS_Store
