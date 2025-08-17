@@ -1,4 +1,4 @@
-# Skylines export
+# Skylines exporter
 Enabling export of data from skylines as backup, saving to disc. This script exports
 - user_info.json: user information
 - flights_info.json: all flights + (some) metadata
